@@ -1,0 +1,7 @@
+{
+  "name": "structura-poc",
+  "version": "0.1.0",
+  "description": "Structura AI — Organisational Friction Intelligence PoC",
+  "private": true,
+  "engines": { "node": "18.x" }
+}
